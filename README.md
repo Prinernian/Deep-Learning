@@ -1,2 +1,2 @@
 # Deep-Learning
-Let's follow the trends.
+Let's follow trends.
