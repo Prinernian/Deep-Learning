@@ -1,0 +1,4 @@
+ls filter=lfs diff=lfs merge=lfs -text
+Beginner[[:space:]]Level/Section[[:space:]]z-three/datasetAndModels/test.zip filter=lfs diff=lfs merge=lfs -text
+Beginner[[:space:]]Level/Section[[:space:]]z-three/datasetAndModels/train.zip filter=lfs diff=lfs merge=lfs -text
+Beginner[[:space:]]Level/Section[[:space:]]z-three/datasetAndModels/validation.zip filter=lfs diff=lfs merge=lfs -text
